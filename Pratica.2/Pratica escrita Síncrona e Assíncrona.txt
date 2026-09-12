@@ -1,0 +1,87 @@
+PRATICA OREINTADA: Síncrona e Assíncrona comparação de praticidade.
+
+
+Problema: Desenvolver uma apresentação de projeto acadêmico com dinâmicas de amostra 
+
+Assunto: Desenvolvimento de Ambientes em tecnologias de realidade virtual
+
+Dinâmica: Amostra de ambientes produzidos em realidade virtual com auxilio de óculos VR(Virtual Reality)
+
+Síncrona: 
+1.Instruções: 
+passo.1: Discutir as ideias em forma de debate presencial físico e online(principalmente no Google.Meet)
+passo.2: Possuir as ferramentas necessárias para a execução do projeto.
+passo.3: Organizar os papeis de cada membro do grupo.
+passo.4: Desenvolver o banner do assunto proposto com instruções passadas em sala de aula pelo orientador. 
+passo.5: Desenvolver os ambientes virtuais escolhidos para a amostra.
+passo.6: Apresentar o projeto em forma final.
+
+2.Tempo:
+2hrs por dia na semana: 
+20 minutos para discussão do assunto. 
+20 minutos para preparação do banner.
+20 minutos para a discussão do desaine escolhido.
+01 hora para a programação e estruturação dos ambientes em realidade virtual 
+
+3.Forma de Participação:
+Discussões realizadas em horário combinado:
+Online: 2hrs de discussão por vídeo chamada principalmente por Google.Meet.
+Presencial: 2hrs de debate em sala de aula disponibilizada pelo Orientador.
+
+4.Pordução esperada: 
+Execução do projeto de forma clara e compreensível
+
+5.Alternativas para Falhas de acesso:
+Queda de Internet: utilizar redes locais(LAN) para a comunicação local ou telefonia convencional para comunicação sem o uso de WI-FI.
+Horário Indisponível: Utilização de horários extras durante a semana ou recompensar o tempo perdido nos fins de semana.
+
+6.FeedBack:
+Receber criticas sejam elas boas ou ruins.
+Responder perguntas e duvidas do publico.
+
+Assíncrona:
+1.Instruções:
+passo.1: Discutir os principais pontos do assunto por meio de um grupo de WhatsApp ou fórum de ideia.
+passo.2: Possuir as ferramentas necessárias para a execução do projeto.
+passo.3: Organizar os papeis de cada membro do grupo.
+passo.4: Desenvolver o banner do assunto proposto com instruções passadas nos grupos online.
+passo.5: Desenvolver os ambientes virtuais escolhidos para a amostra.
+passo.6: Apresentar o projeto em forma final.
+
+2.Tempo:
+horário indeterminado
+compromisso de entrega do assunto estudado.
+
+3.Forma de Participação:
+Discussões em horários indeterminados: 
+participação por fórum, Grupos do WhatsApp.
+Documentos compartilhados para introdução de ideias de forma individual
+
+4.Pordução esperada: 
+Informações passadas de forma clara para o entendimento dos ouvintes e uma dinâmica apresentada de forma correta e bem executada com relação ao tema Realidade Virtual.
+
+5.Alternativas para Falhas de acesso:
+Sem acesso a Internet: Entrega da parte de contribuição de forma alternativa, por escrito ou em arquivo, quando houver acesso.
+
+6.FeedBack:
+Receber criticas sejam elas boas ou ruins.
+Responder perguntas e duvidas do publico.
+
+
+Pergunta chave: Qual versão favorece estudantes que precisam de mais tempo para formular respostas? Qual oferece retorno mais imediato? Como manter registro da participação?
+
+
+Síncrona:
+Trabalha com resposta em tempo limite.
+Oferece um retorno de forma clara e rápida.
+Mantem registro de participação por presença.
+
+Assíncrona:
+
+Oferece um tempo maior de formulação de resposta.
+não trabalha  com retornos imediatos, mas sim com compromisso de entrega de respostas.
+Não possui uma forma de registro de participação.
+
+RESUTADO DE COMPARAÇÃO
+
+Resposta: Ambas possuem suas vantagem enquanto a Assíncrona oferece mais tempo para formular ideias e compreender o assunto proposto mais afundo. A Síncrona torna a execução de tarefas mais rápidas e eficientes possuindo uma praticidade maior. 
