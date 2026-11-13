@@ -1,0 +1,53 @@
+
+PRATICA GUIADA.05
+
+Ferramenta de Uso: Google Formes
+
+Mapeamento de Entrada: 
+Estudantes utilizam uma plataforma para enviar tarefas e suas praticas.
+professor ministra as aulas pela plataforma deixando todos os alunos informados.
+
+1.Validação:
+O professor verifica se as atividades foram recebidas corretamente.
+ 
+2.Armazenamento:
+Atividades devem ser organizadas em pastas na plataforma escolhida sendo identificadas por turmas.
+
+3.Identificação do Estudante:
+Registros Obrigatórios:
+Nome do discente
+Numero da matricula
+Identificador de turma
+Data de envio de atividade
+
+4.Status:
+Identificar se todas as atividades forma entregues:
+Pendente: ainda n foi enviada.
+Entregue: tarefa recebida pelo professor.
+Em correção: atribuição da nota em andamento.
+Devolvida: Devolução da atividade já corrigida e com a nota atribuída.
+
+5.Forma Devolutiva:
+O professor registra a nota, comentário ou orientação para o estudante.
+
+6.Acesso e descarte:
+Professor: possui acesso as turmas podendo modificar os trabalhos a corrigir as atividades enviadas pelos discentes.
+Aluno: possui acesso ao envio das atividades e possui um prazo(Período de entrega fornecido pelo professor) para poder modificar a atividade caso queira corrigir informações incompletas.
+administrador das turmas: Possui a função de administrar as turmas podem do arquivar, apagar e alterar dados dos quais n são mais necessários.
+ 
+7.Quem pode ver e alterar cada informação: 
+Informações de aulas: visível para todos, administrador: Coordenador do curso ou auxiliar do professor.
+Informações de envio de tarefa: Apenas o professor e o seu auxiliar pode ver.
+Alterações de envio de atividade: Apenas os alunos dentro do prazo definido.
+Alterações da descrição de definição das atividades: Apenas o professor e seu auxiliar possui permissão para fazer alterações.
+
+8.Perguntas para análise:
+Quais informações são realmente necessárias?
+R: identificador das turmas, ID de matriculas dos alunos, atividades ministradas, entrega das atividades administradas; 
+ 
+Onde surgem duplicidades? 
+R: Principalmente quando o estudante envia a mesma atividade por diferentes canais, como e-mail, WhatsApp e plataforma. A definição de um canal oficial de entrega reduz esse problema.
+
+Como evitar perda de contexto?
+R: Relacionando cada atividade ao estudante, turma, disciplina, data, atividade e devolutiva. Assim, o professor consegue compreender o histórico mesmo posteriormente.
+  
