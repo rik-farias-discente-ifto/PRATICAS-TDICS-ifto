@@ -1,0 +1,50 @@
+
+COMPARATIVO DE SOFTWARES EDUCACIONAIS
+Ferramentas Avaliadas: Kahoot! e Wordwall
+Disciplina: Português
+Público-alvo: 3° Ano do Ensino Médio
+
+Necessidade Educacional:
+R: A necessidade identificada e de utilizar uma  ferramenta digital para revisar conteúdos de Língua Portuguesa(Classes gramaticas, Interpretação e Compreensão textual além de outras)
+com o objetivo de tornar o aprendizado mais interativo além de tornar as atividades mas participativa para os alunos.
+
+Perfil da Turma:
+R: Uma turma composta por estudantes do ensino médio possuindo diferentes níveis de escolaridade e conhecimentos tecnológicos.
+Possuindo um Projetor e uma internet de acesso limitado usada individualmente.
+
+
+2. Critérios de Avaliação:
+R: Cinco critérios foram avaliados;
+Facilidade de uso
+Acessibilidade
+recursos Pedagógicos
+necessidade de Internet
+Privacidade
+
+3. Comparação das ferramentas:  
+
+Critérios	            Kahoot                                      Wordwall
+Facilidade de uso:	>   Interface intuitiva	                        Interface intuitiva
+Recursos pedagógicos:	>   Quizzes e competições	                Quizzes e atividades variadas
+Acessibilidade:	        >   Pode exigir dispositivos individuais        Permite atividades coletivas pelo projetor
+Internet:	        >   Necessária para sessões ao vivo	        Necessária para atividades online
+Privacidade:	        >   Pode coletar identificadores e respostas    Pode coletar dados de participação e respostas
+
+
+4. Tarefa equivalente proposta:
+R: Uma atividade aplicada como teste para ambas as plataformas, é a elaboração de cinco questões de múltipla escolha sobre o Classes Gramaticas(ou qual quer outro assunto de Língua Portuguesa), logo depois comparar a apresentação, a participação e as possibilidades de avaliação.
+ 
+5. Evidencias e Limitações:
+R: O kahoot! prioriza atividades competitivas, com pontuação classificada dos participantes. O Wordwall oferece diferentes formas de atividades, permitindo uma maior variedade nas possibilidades para a apresentação do conteúdo.
+
+6. Reflexão sobre as perguntas
+Que critério mudou sua percepção inicial?
+R: A acessibilidade e a necessidade de internete, pois ferramentas para auxilio no ensino podem ser interessantes, mas não atenderem as condições da escola.
+
+Um recurso visualmente atraente melhorou a atividade?
+R: Não de forma direta. aparência pode ser uma ferramenta de interesse, mas a aprendizagem depende da qualidade das questões da participação do aluno.
+
+Que dados a ferramenta solicita?
+R: para criar as atividades ambas solicitam informações do usuário como Email ou nome, mas para participar das atividades criadas, o aluno pode criar um usuário temporário sem precisar colocar suas informações(a não ser que o professor queira que os alunos se identifiquem, neste caso terão que colocar suas informações para criar uma conta na plataforma). 
+
+
