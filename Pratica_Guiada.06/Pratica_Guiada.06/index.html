@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Segurança na Internet</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #edf2f8;
+    color: #17263b;
+    margin: 0;
+    line-height: 1.6;
+  }
+  header {
+    background: #183b70;
+    color: white;
+    padding: 24px;
+    text-align: center;
+  }
+  main {
+    max-width: 760px;
+    margin: 24px auto;
+    padding: 24px;
+    background: white;
+    border-radius: 12px;
+  }
+  nav a, .botao {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 14px;
+    background: #235da3;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+  }
+  a:focus-visible, button:focus-visible {
+    outline: 3px solid #e28b00;
+    outline-offset: 3px;
+  }
+  section { display: none; }
+  section:target { display: block; }
+  body:not(:has(section:target)) #inicio {
+    display: block;
+  }
+  button {
+    padding: 12px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Segurança na Internet</h1>
+  <p>Aprenda a navegar com segurança</p>
+</header>
+<main>
+<nav aria-label="Navegação principal">
+  <a href="#inicio">Início</a>
+  <a href="#definicao">Definição</a>
+  <a href="#exemplo">Exemplo</a>
+  <a href="#demonstracao">Demonstração</a>
+  <a href="#atividade">Atividade</a>
+  <a href="#aprofundamento">Aprofundamento</a>
+</nav>
+
+<section id="inicio">
+  <h2>1. Início</h2>
+  <p>Bem-vindo! Explore os conteúdos
+  pelos links. Você pode seguir a
+  sequência ou escolher outro caminho.</p>
+  <a class="botao" href="#definicao">
+    Começar
+  </a>
+</section>
+
+<section id="definicao">
+  <h2>2. Definição</h2>
+  <p>Segurança na internet é o conjunto
+  de práticas utilizadas para proteger
+  informações, contas e dispositivos
+  contra ameaças digitais.</p>
+  <a class="botao" href="#exemplo">
+    Ver exemplo
+  </a>
+  <a class="botao" href="#aprofundamento">
+    Aprofundar
+  </a>
+</section>
+
+<section id="exemplo">
+  <h2>3. Exemplo</h2>
+  <p>Você recebe uma mensagem dizendo
+  que ganhou um prêmio e precisa
+  informar sua senha para recebê-lo.</p>
+  <p>Essa situação pode ser uma
+  tentativa de golpe virtual.</p>
+  <a class="botao" href="#demonstracao">
+    Ver demonstração
+  </a>
+</section>
+
+<section id="demonstracao">
+  <h2>4. Demonstração</h2>
+  <p>Mensagem suspeita:</p>
+  <blockquote>
+    "URGENTE! Sua conta será bloqueada.
+    Clique no link e informe sua senha!"
+  </blockquote>
+  <p>Observe os sinais de alerta:
+  urgência exagerada, link desconhecido
+  e solicitação de senha.</p>
+  <a class="botao" href="#atividade">
+    Fazer atividade
+  </a>
+</section>
+
+<section id="atividade">
+  <h2>5. Atividade</h2>
+  <p>O que fazer ao receber um link
+  suspeito pedindo sua senha?</p>
+  <button onclick="responder(false)">
+    A) Informar a senha
+  </button>
+  <button onclick="responder(true)">
+    B) Não clicar e verificar a origem
+  </button>
+  <p id="resultado" role="status"></p>
+  <a class="botao" href="#aprofundamento">
+    Continuar
+  </a>
+</section>
+
+<!-- ETAPA 6: APROFUNDAMENTO -->
+<section id="aprofundamento">
+  <h2>6. Aprofundamento</h2>
+
+  <p>Para aumentar sua segurança na internet:</p>
+
+  <ul>
+    <li>Use senhas fortes e diferentes.</li>
+    <li>Ative a autenticação em duas etapas.</li>
+    <li>Não compartilhe códigos de acesso.</li>
+    <li>Mantenha seus aplicativos atualizados.</li>
+  </ul>
+
+  <h3>Você chegou à última etapa!</h3>
+
+  <p>
+    Clique no botão abaixo para finalizar
+    seu percurso de aprendizagem.
+  </p>
+
+  <a class="botao" href="#conclusao">
+    ✓ Concluir o passo a passo
+  </a>
+</section>
+
+<!-- TELA FINAL: CONCLUSÃO -->
+<section id="conclusao">
+  <h2>Parabéns!</h2>
+
+  <p>
+    Você concluiu o passo a passo sobre
+    Segurança na Internet!
+  </p>
+
+  <p>
+    Durante esta atividade, você aprendeu
+    conceitos importantes, analisou exemplos,
+    observou demonstrações e testou
+    seus conhecimentos.
+  </p>
+
+  <p>
+    Continue utilizando essas práticas
+    para navegar com segurança!
+  </p>
+
+  <a class="botao" href="#inicio">
+    ↩ Voltar ao início
+  </a>
+</section>
+
+</main>
+<script>
+function responder(correta) {
+  document.getElementById("resultado").textContent =
+    correta
+    ? "Correto! Verifique sempre a origem."
+    : "Tente novamente. Nunca informe sua senha.";
+}
+</script>
+</body>
+</html>
